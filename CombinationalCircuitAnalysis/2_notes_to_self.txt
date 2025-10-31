@@ -1,2 +1,8 @@
-! also, don't forget the answer key; refer to editor's version...
+! also, don't forget the answer key; refer to editor's version... <RESOLVED>
+
+need to recheck one more time, see if a faulty user-inventory-payment combo has snuck up...
+
+issue: primarily a design lab; 
+-->just make another design lab?
+-->or give faulty predesigned versions, make students decipher and fix
 
