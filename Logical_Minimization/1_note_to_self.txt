@@ -9,3 +9,19 @@ room to expand, if we need to
 Part 2:
 
 could include repeat for function L, but might be of limited utility...
+
+MIMO --
+
+the fact that for inputs, 
+  you perform XOR
+the fact that for outputs,
+  you perform AND
+
+implicant chart--tweak and make new cases:
+1) implicants now covering "extra" minterms
+2) implicants now not covering "reduced" minterms
+
+Case 2: still have to cover the "reduced" minterms somehow: get <redundancy> --nonideal, but f_minimized is still =f
+Case 1: take away "extra" minterms, and suddenly, you remove guarantee that they will be covered when all is said and done
+
+..now how do I make a Part out of this...
