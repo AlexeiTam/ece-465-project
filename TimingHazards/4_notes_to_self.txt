@@ -1,0 +1,20 @@
+*Review* all hazard free solns, make final checks
+
+Find the time to learn Verilog,
+and if that fails, see how to get timing diagrams 
+in CircuitVerse (need to add delay timers) and Logisim-evolution (need to slip in buffers) to work 
+
+maybe even use Python to make some *really* crisp graphs...
+
+INVENTORY:
+
+Part 1:
+
+Lab4HazardBSM -- implementation of the BSM with the hazards
+Lab4HazardBSM_QuickFix -- using 
+
+
+More ways to challenge students:
+--only give the hazardous implementations
+--make implementations only w/ NANDs and/or NORs, and maybe only w/ the chips
+
