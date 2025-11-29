@@ -1,8 +1,7 @@
 # ece-465-project
 
 This project aims to provide a series of instructional lab experiments for the ECE 465 course to employ, as a helpful 
-tool and supplement to further reinforce concepts that have been explored and discussed in class, and further provide 
-experiences valuable to professional development further down the line.
+tool and supplement to further reinforce concepts that have been explored and discussed in class.
 
 The labs cover topics as follows:
 
