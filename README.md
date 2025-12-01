@@ -19,7 +19,7 @@ The labs cover topics as follows:
 4 - Timing Hazards
 --Students will explore the effects that nonideal time delays on gate outputs, the nature of the “glitches” that result in the output, methods for mitigating these hazards, and how/why these methods work, revisiting the particle accelerator case study in the previous lab, Lab 3.
 
-5 - FSM Analysis
+5 - Synchronous Sequential Design
 --Students will focus on the implementation and uses of memory elements (in this case, D Flip-Flops) and combinational circuits, and the design of synchronous sequential circuits for a variety of purposes in the context of a sleepy seaside resort town.
 
 
