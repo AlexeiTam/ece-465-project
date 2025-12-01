@@ -26,5 +26,6 @@ The labs cover topics as follows:
 (!) Major Note:
 
 --The original <TimingHazards> folder can be considered archived.  The new folder for Lab 4 is <TimingHazards[New]>.
+--The directories <CombinationalCircuitAnalysis> and <CombinationalCircuitDesign> are also archived.
 
 
