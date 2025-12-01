@@ -22,7 +22,8 @@ The labs cover topics as follows:
 5 - FSM Analysis
 --Students will focus on the implementation and uses of memory elements (in this case, D Flip-Flops) and combinational circuits, and the design of synchronous sequential circuits for a variety of purposes in the context of a sleepy seaside resort town.
 
-\bold{Major Note:}
+
+(!) Major Note:
 
 --The original <TimingHazards> folder can be considered archived.  The new folder for Lab 4 is <TimingHazards[New]>.
 
